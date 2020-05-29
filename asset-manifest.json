@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/seeprogramming/anup-patil/static/css/main.a55ae306.chunk.css",
-    "main.js": "/seeprogramming/anup-patil/static/js/main.9b0d4096.chunk.js",
-    "main.js.map": "/seeprogramming/anup-patil/static/js/main.9b0d4096.chunk.js.map",
-    "runtime-main.js": "/seeprogramming/anup-patil/static/js/runtime-main.ff681bdb.js",
-    "runtime-main.js.map": "/seeprogramming/anup-patil/static/js/runtime-main.ff681bdb.js.map",
-    "static/js/2.098145df.chunk.js": "/seeprogramming/anup-patil/static/js/2.098145df.chunk.js",
-    "static/js/2.098145df.chunk.js.map": "/seeprogramming/anup-patil/static/js/2.098145df.chunk.js.map",
-    "index.html": "/seeprogramming/anup-patil/index.html",
-    "precache-manifest.8e53e4f7923ea9e8b63ac2adb2c316d0.js": "/seeprogramming/anup-patil/precache-manifest.8e53e4f7923ea9e8b63ac2adb2c316d0.js",
-    "service-worker.js": "/seeprogramming/anup-patil/service-worker.js",
-    "static/css/main.a55ae306.chunk.css.map": "/seeprogramming/anup-patil/static/css/main.a55ae306.chunk.css.map",
-    "static/js/2.098145df.chunk.js.LICENSE.txt": "/seeprogramming/anup-patil/static/js/2.098145df.chunk.js.LICENSE.txt",
-    "static/media/about_me.png": "/seeprogramming/anup-patil/static/media/about_me.19efcc6f.png",
-    "static/media/form_section.png": "/seeprogramming/anup-patil/static/media/form_section.fa442798.png",
-    "static/media/red-moon.jpg": "/seeprogramming/anup-patil/static/media/red-moon.9f054c1f.jpg"
+    "main.css": "/anup-patil/static/css/main.a55ae306.chunk.css",
+    "main.js": "/anup-patil/static/js/main.2fe6075c.chunk.js",
+    "main.js.map": "/anup-patil/static/js/main.2fe6075c.chunk.js.map",
+    "runtime-main.js": "/anup-patil/static/js/runtime-main.9821fed7.js",
+    "runtime-main.js.map": "/anup-patil/static/js/runtime-main.9821fed7.js.map",
+    "static/js/2.098145df.chunk.js": "/anup-patil/static/js/2.098145df.chunk.js",
+    "static/js/2.098145df.chunk.js.map": "/anup-patil/static/js/2.098145df.chunk.js.map",
+    "index.html": "/anup-patil/index.html",
+    "precache-manifest.7d84bc8bd50ba07a9f7f1a3144e8362e.js": "/anup-patil/precache-manifest.7d84bc8bd50ba07a9f7f1a3144e8362e.js",
+    "service-worker.js": "/anup-patil/service-worker.js",
+    "static/css/main.a55ae306.chunk.css.map": "/anup-patil/static/css/main.a55ae306.chunk.css.map",
+    "static/js/2.098145df.chunk.js.LICENSE.txt": "/anup-patil/static/js/2.098145df.chunk.js.LICENSE.txt",
+    "static/media/about_me.png": "/anup-patil/static/media/about_me.19efcc6f.png",
+    "static/media/form_section.png": "/anup-patil/static/media/form_section.fa442798.png",
+    "static/media/red-moon.jpg": "/anup-patil/static/media/red-moon.9f054c1f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff681bdb.js",
+    "static/js/runtime-main.9821fed7.js",
     "static/js/2.098145df.chunk.js",
     "static/css/main.a55ae306.chunk.css",
-    "static/js/main.9b0d4096.chunk.js"
+    "static/js/main.2fe6075c.chunk.js"
   ]
 }
