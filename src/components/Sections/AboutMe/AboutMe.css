@@ -1,0 +1,26 @@
+.AboutMe img {
+  width: 100%;
+}
+
+.AboutMe_Wrapper th {
+  color: #f2f5f7;
+  font-weight: 500;
+}
+
+.AboutMe_Wrapper td,
+p {
+  color: #525252;
+}
+
+@media (max-width: 578px) {
+  .downloadcv-btn {
+    display: block;
+    width: 100%;
+  }
+
+  #head_text, #head_info{
+    text-align: center;
+  }
+
+
+}

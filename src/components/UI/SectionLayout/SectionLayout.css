@@ -1,0 +1,12 @@
+.SectionLayout{
+    background-color: #0e141b;
+    color: #f2f5f7;
+    padding: 50px 0;
+}
+
+
+@media (max-width : 578px ){
+    .SectionLayout{
+        padding: 30px 0;
+    }
+}

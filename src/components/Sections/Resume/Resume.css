@@ -1,0 +1,44 @@
+
+.section-info{
+    text-align: center;
+}
+
+.custom-card{
+    background-color: #1d2730;
+    /* background-color: #1a1a1a; */
+    padding: 15px;
+    border-radius: 7px;
+}
+
+.year{
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #FFBD39 ;
+}
+
+.degree{
+    font-size: 1.5em;
+    color: #F2F5F7;
+}
+
+.place{
+    font-weight: 600;
+    color: #999999;
+
+}
+
+.degree_info{
+    color: #999999;
+}
+
+.custom-card {
+    margin: 15px 0;
+   
+}
+
+
+@media (max-width : 578px) {
+    .custom-card{
+        text-align: left !important;
+    }
+}

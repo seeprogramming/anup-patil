@@ -1,0 +1,11 @@
+.carousel-indicators li{
+    background-color : #FFBD39 !important;
+}
+
+
+@media (min-width:768px){
+    .carousel-inner {
+        height: 450px;
+    }
+}
+

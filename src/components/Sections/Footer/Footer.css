@@ -1,0 +1,31 @@
+.footer_wrap {
+    padding: 10px 0;
+    background-color: #1d2730;
+}
+
+.footer_wrap p{
+    margin: 0;
+    font-size: 0.9em;
+    color: #f2f5f7;
+   
+}
+
+.footer_wrap p:nth-child(1){
+    float: left;
+}
+
+.footer_wrap p:nth-child(2){
+    float: right;
+}
+
+.footer_wrap .clear{
+    clear: both;
+}
+
+@media (max-width:578px){
+    .footer_wrap p{
+        font-size: 0.7em;
+        float: none !important;
+        text-align: center;
+    }
+}

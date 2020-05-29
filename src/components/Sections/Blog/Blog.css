@@ -1,0 +1,40 @@
+.blog-image img{
+    width : 100%
+}
+
+.single-blog{
+    margin: 15px 0;
+    background-color: #1d2730;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.single-blog:hover .blog_title p{
+    color: #FFBD39;
+}
+
+.blog_data{
+    padding: 15px;
+}
+
+.publish_date  {
+    color: #FFBD39;
+}
+
+.blog_title {
+    margin: 10px 0;
+}
+
+.blog_title p{
+    color: #f2f5f7;
+    font-size: 1em;
+}
+
+
+
+.blog_excerpt p{
+    color: #999999;
+    font-size: 0.9em;
+}
